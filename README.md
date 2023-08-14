@@ -1,4 +1,4 @@
-# Personal-Finance-Tracker
+# Stock Analysis Toolkit
 # Group Project EE20B132 
 Brief about the working of the code- 
 • The tool can filter for stocks matching Benjamin Graham's seven criteria to identify strong value stocks
