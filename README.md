@@ -1,8 +1,11 @@
-# Stock Analysis Toolkit
+# Stock Analysis ans Price Prediction
 # Group Project EE20B132 
 Brief about the working of the code- 
 • The tool can filter for stocks matching Benjamin Graham's seven criteria to identify strong value stocks
 • Data of the publicly traded companies are extracted using the BeautifulSoup4 library and script uses the ArgumentParser to define subcommands that can be executed from the command line. 
+
+
+This project seeks to utilize Long-Short Term Memory (LSTM) model, to predict stock prices. We use Keras to build a LSTM model to predict stock prices with historical opening, closing prices and trading volume, and visualize and compare both the predicted price values over time. We also compared the result of linear regression with LSTM.
 
 Libraries required  - 
 requests
